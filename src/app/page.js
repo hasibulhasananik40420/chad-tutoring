@@ -1,4 +1,5 @@
 import Banner from '@/components/Ui/Banner'
+import CalendlyWidget from '@/components/Ui/CalendlyWidget'
 import Tutoring from '@/components/Ui/Tutoring'
 
 const HomePage = () => {
@@ -6,6 +7,8 @@ const HomePage = () => {
     <div>
       <Banner/>
       <Tutoring/>
+      <CalendlyWidget/>
+       
     </div>
   )
 }

@@ -19,7 +19,7 @@ const Banner = () => {
 
                 </div>
 
-                <div className="lg:w-[424px] w-full lg:h-[548px] md:h-[748px] h-[528px] mt-10 md:mt-16 lg:mt-0">
+                <div className="lg:w-[424px] w-[320px] lg:h-[548px] md:h-[748px] h-[438px] mx-auto lg:mx-0 mt-10 md:mt-16 lg:mt-0">
                     <Image className="w-full h-full " src={chad} alt="chad image " placeholder="blur"/>
                 </div>
             </div>

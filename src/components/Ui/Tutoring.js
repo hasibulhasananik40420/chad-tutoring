@@ -103,19 +103,16 @@ const Tutoring = () => {
           </div>
         </div>
 
-        <div className="mt-[48px]">
+        <div className="mt-[48px] ">
           <Image
-            className="w-full md:h-[560px] h-[400px] object-cover"
+            className="w-full md:h-[560px]  md:object-cover object-contain"
             src={image4}
             alt="product image"
             placeholder="blur"
           />
         </div> 
         
-        <div className="mt-[48px] md:mt-[60px]">
-         
-          <CalendlyWidget/>
-        </div>
+        
       </div>
     </Container>
   );
