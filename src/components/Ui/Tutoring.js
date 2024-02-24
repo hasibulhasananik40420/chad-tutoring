@@ -23,11 +23,7 @@ const Tutoring = () => {
           </h1>
 
           <p className="text-[#3D3D3D] text-[18px] mt-6 font-normal leading-7">
-            Math tutoring will use workbooks for 3rd graders, helping students
-            to get ahead of upcoming classroom material. Reading and Writing
-            will focus on enhancing standardized test-taking skills, through
-            using workbook lessons to practice reading, reading comprehension,
-            and essay writing. Homework is assigned after each session.
+          Math tutoring will use 3rd grade-level workbooks to help students get ahead of upcoming classroom material. Reading and Writing will focus on enhancing standardized test-taking skills. Students will use workbook lessons to practice reading, complete reading comprehension questions, and practice essay writing. Homework will be assigned after each session.
           </p>
 
           <div className="md:mt-[66px] mt-[40px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 justify-items-center">
@@ -86,8 +82,7 @@ const Tutoring = () => {
               <span className="text-[#069A71] font-semibold">
                 $40 per student
               </span>
-              . Workbooks will be provided for both tutoring and at-home
-              practice.
+              . Workbooks will be provided for both tutoring and at-home practicing.
             </p>
           </div>
 
@@ -98,7 +93,7 @@ const Tutoring = () => {
 
             <p className="text-[#3D3D3D] text-[18px] mt-6 font-normal leading-7">
               Tutoring will occur at Fairfield - Henrico County Public Library,
-              located 1401 N Laburnum Ave, Richmond, VA 23223
+              located <span className="text-[#069A71] font-semibold">1401 N Laburnum Ave, Richmond, VA 23223</span>
             </p>
           </div>
         </div>

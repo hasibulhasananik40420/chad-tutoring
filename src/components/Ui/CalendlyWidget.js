@@ -18,7 +18,7 @@ const CalendlyWidget = () => {
   }, []);
 
   return (
-    <div className="calendly-inline-widget mt-[58px] md:mt-[60px] pt-12 md:pt-10 lg:pt-0 pb-9 bg-[#FBFCFD] md:h-[700px] h-[500px]" data-url="https://calendly.com/chadstutoring" style={{ minWidth: '320px' }}></div>
+    <div id='calendlysection' className="calendly-inline-widget mt-[58px] md:mt-[60px] pt-12 md:pt-10 lg:pt-0 pb-9 bg-[#FBFCFD] md:h-[700px] h-[500px]" data-url="https://calendly.com/chadstutoring" style={{ minWidth: '320px' }}></div>
   );
 };
 
