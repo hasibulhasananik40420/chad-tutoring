@@ -92,8 +92,8 @@ const Tutoring = () => {
             </h1>
 
             <p className="text-[#3D3D3D] text-[18px] mt-6 font-normal leading-7">
-              Tutoring will occur at Fairfield - Henrico County Public Library,
-              located <span className="text-[#069A71] font-semibold">1401 N Laburnum Ave, Richmond, VA 23223</span>
+              Tutoring will occur at Fairfield - Henrico County Public Library, located at
+               <span className="text-[#069A71] font-semibold"> 1401 N Laburnum Ave, Richmond, VA 23223</span>
             </p>
           </div>
         </div>
