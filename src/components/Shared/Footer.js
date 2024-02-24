@@ -24,14 +24,14 @@ const Footer = () => {
 
 <div className='mt-10 md:mt-14 lg:mt-0'>
       <Image className='w-12 h-12' src={call} alt='call icon' />
-      <h1 className='mt-4 text-[#242424] text-[20px] font-medium lowercase leading-[30px] underline underline-offset-8'>
+      <h1 className='mt-4 text-[#242424] text-[20px] font-medium lowercase leading-[30px] border-b-[1px] border-b-[#242424]'>
         <a href='tel:8047620435'>804-762-0435</a>
       </h1>
     </div>
 
     <div className='mt-10 md:mt-14 lg:mt-0'>
       <Image className='w-12 h-12' src={inbox} alt='call icon' />
-      <h1 className='mt-4 text-[#242424] text-[20px] font-medium lowercase leading-[30px] underline underline-offset-8'>
+      <h1 className='mt-4 text-[#242424] text-[20px] font-medium lowercase leading-[30px] border-b-[1px] border-b-[#242424]'>
         <a href='mailto:chadstutoringrva@gmail.com'>chadstutoringrva@gmail.com</a>
       </h1>
     </div>
